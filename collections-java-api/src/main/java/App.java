@@ -1,8 +1,12 @@
-package main.java.list.OperacoesBasicas;
+package main.java;
+
+import main.java.list.OperacoesBasicas.CarrinhoDeCompras;
+import main.java.list.OperacoesBasicas.Item;
 
 public class App {
     public static void main(String[] args) throws Exception {
 
+        // Testando carrinho de Compras
         CarrinhoDeCompras carrinho = new CarrinhoDeCompras();
         carrinho.adicionarItem(new Item("Caneta",3.50,2));
         carrinho.adicionarItem(new Item("Borracha",1.75,3));
