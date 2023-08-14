@@ -1,2 +1,7 @@
-# dio.desenvolvimento.java.aws.cloud
+<h1>
+    <a href="https://www.dio.me/">
+     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <span> dio.desenvolvimento.java.aws.cloud</span>
+</h1>
+
 Repositório com resolução de exercícios e desafios do Curso "Desenvolvimnto Java com Cloud AWS" na [dio.me](https://web.dio.me/).
