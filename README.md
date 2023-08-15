@@ -4,4 +4,4 @@
     <span> dio.desenvolvimento.java.aws.cloud</span>
 </h1>
 
-Repositório com resolução de exercícios e desafios do Curso "Desenvolvimnto Java com Cloud AWS" na [dio.me](https://web.dio.me/).
+Repositório com resolução de exercícios e desafios do Curso "Desenvolvimento Java com Cloud AWS" na [dio.me](https://web.dio.me/).
